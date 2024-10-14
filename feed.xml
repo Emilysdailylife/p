@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>my portfolio</title>
+    <link href="https://emilysdailylife.github.io/p/feed.xml" rel="self" />
+    <link href="https://emilysdailylife.github.io/p" />
+    <updated>2024-10-14T11:33:03+02:00</updated>
+    <author>
+        <name>emily kieck</name>
+    </author>
+    <id>https://emilysdailylife.github.io/p</id>
+
+    <entry>
+        <title>The years work 2024</title>
+        <author>
+            <name>emily kieck</name>
+        </author>
+        <link href="https://emilysdailylife.github.io/p/the-years-work-2024.html"/>
+        <id>https://emilysdailylife.github.io/p/the-years-work-2024.html</id>
+
+        <updated>2024-10-14T11:33:03+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="align-center"><!--StartFragment --><img loading="lazy"  src="https://media.tenor.com/Ijq_ql8e-ooAAAAC/f1-formula-one.gif" data-is-external-image="true"></figure><!--EndFragment --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Overall </title>
+        <author>
+            <name>emily kieck</name>
+        </author>
+        <link href="https://emilysdailylife.github.io/p/term-1.html"/>
+        <id>https://emilysdailylife.github.io/p/term-1.html</id>
+
+        <updated>2024-10-14T11:27:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    what has been done in the lessons: 1. Java programming 2. HTML 3. Basic CAT information 4. Basic IT programming
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="text-decoration: underline; color: #3598db;">what has been done in the lessons:</span></p>
+<p>1. Java programming </p>
+<p>2. HTML</p>
+<p>3. Basic CAT information</p>
+<p>4. Basic IT programming</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

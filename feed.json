@@ -1,0 +1,40 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "my portfolio",
+    "description": "",
+    "home_page_url": "https://emilysdailylife.github.io/p",
+    "feed_url": "https://emilysdailylife.github.io/p/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "emily kieck"
+    },
+    "items": [
+        {
+            "id": "https://emilysdailylife.github.io/p/the-years-work-2024.html",
+            "url": "https://emilysdailylife.github.io/p/the-years-work-2024.html",
+            "title": "The years work 2024",
+            "content_html": "<figure class=\"align-center\"><!--StartFragment --><img loading=\"lazy\"  src=\"https://media.tenor.com/Ijq_ql8e-ooAAAAC/f1-formula-one.gif\" data-is-external-image=\"true\"></figure><!--EndFragment --></p>",
+            "author": {
+                "name": "emily kieck"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-14T11:33:03+02:00",
+            "date_modified": "2024-10-14T11:33:03+02:00"
+        },
+        {
+            "id": "https://emilysdailylife.github.io/p/term-1.html",
+            "url": "https://emilysdailylife.github.io/p/term-1.html",
+            "title": "Overall ",
+            "summary": "what has been done in the lessons: 1. Java programming 2. HTML 3. Basic CAT information 4. Basic IT programming",
+            "content_html": "<p><span style=\"text-decoration: underline; color: #3598db;\">what has been done in the lessons:</span></p>\n<p>1. Java programming </p>\n<p>2. HTML</p>\n<p>3. Basic CAT information</p>\n<p>4. Basic IT programming</p>",
+            "author": {
+                "name": "emily kieck"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-14T11:27:15+02:00",
+            "date_modified": "2024-10-14T11:30:29+02:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://emilysdailylife.github.io/p/sitemap.xml
